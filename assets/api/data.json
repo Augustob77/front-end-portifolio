@@ -1,0 +1,159 @@
+{
+    "main": {
+        "name": "Augusto Barbosa",
+        "shortname": "Gutim",
+        "about": "Quem eu sou",
+        "occupation": "Engenheiro de Software / Desenvolvedor Front-End",
+        "age": "22",
+        "designation": "Engenheiro de Software",
+        "bio": "Opa galera! Sempre fui apaixonado pela área computadores, e na minha adolescência conheci a  programação. Me formei então em engenharia de software e hoje atuo como desenvolvedor front-end para algumas empresas :) Se quiser, meu currículo está disponível!",
+        "contactmessage": "Entre em contato comigo!",
+        "email": "dev.augustob77@gmail.com",
+        "phone": "+55 (016) 993205700",
+        "address": {
+            "street": "Rua Emilio Favero, 31",
+            "city": "São Joaquim da Barra",
+            "state": "São Paulo",
+            "zip": "14600-000"
+        },
+        "quotes1": {
+            "sectiontitle": "Sobre mim",
+            "title": "Conheça um pouco sobre mim",
+            "description": "Sempre gostei de design gráfico, inclusive essa era minha opção antes da programação, e quando vi que podia juntar o design com a programação e me tornar um desenvolvedor front-end, não pensei duas vezes! Você pode baixar meu currículo para conhecer os detalhes da minha vida profissional, e caso se interessar, pode entrar em contato."
+        },
+        "quotes2": {
+            "sectiontitle": "",
+            "title": "Posso dar ao seu negócio um novo começo criativo imediatamente!",
+            "description": "Sempre penso na experiência do usuário, então foco em meus projetos para que eles possam entregar a melhor experiência visual possível!"
+        },
+        "workabout": {
+            "completedproject": "8",
+            "inprogressproject": "2",
+            "awardrecived": "8",
+            "happyclinet": "8"
+        },
+        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
+        "social": [{
+                "name": "youtube",
+                "url": "https://www.youtube.com/channel/UCGP5kbtnscx5uTN5suCZfMA?view_as=subscriber",
+                "className": "fa fa-youtube"
+            },
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/asadzaman0167",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/zamanasad/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/iamasadzaman/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Baizidmdashadzzaman",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "International Islamic University Chittagong.",
+            "degree": "Bachelor's Degree, Computer Science",
+            "graduated": "July 2018",
+            "description": "Graduated with First Class Honours"
+        }],
+        "work": [{
+            "company": "Scandicsoft",
+            "title": "Software engineer",
+            "years": "Jan 2018 - Present",
+            "description": "Developing some userfriendly and best software."
+        }],
+        "skillssectiontitle":"Motivated by the Desire to achieve Success",
+        "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
+        "skills": [{
+                "name": "Php",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "Vue",
+                "level": "70%"
+            },
+            {
+                "name": "React",
+                "level": "50%"
+            },
+            {
+                "name": "Web Development",
+                "level": "95%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "no":"01",
+                "title": "RMS with AR",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+            },
+            {
+                "no":"02",
+                "title": "Prothom alo clone",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+            },
+            {
+                "no":"03",
+                "title": "Chaldal Clone",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+            }
+        ]
+    },
+    "services": [
+        {
+            "no": "01",
+            "title": "Teste 1",
+            "description": "teste"
+        },
+        {
+            "no": "02",
+            "title": "Teste 2",
+            "description": "teste"
+        },
+        {
+            "no": "03",
+            "title": "Teste 3",
+            "description": "teste"
+        }
+    ],
+    "awwards": {
+        "awwards": [
+            {
+                "title": "Website of the day",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Awards Site Of The Day",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Honorable mention award",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Designer of the Company",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            }
+        ]
+    }
+}

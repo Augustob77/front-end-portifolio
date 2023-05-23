@@ -1,0 +1,17 @@
+{
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "Contact": {
+    "description": "Auto imported from components/Contact.vue"
+  },
+  "Container": {
+    "description": "Auto imported from components/Container.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Projects": {
+    "description": "Auto imported from components/Projects.vue"
+  }
+}
