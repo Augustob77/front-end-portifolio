@@ -21,6 +21,7 @@
         </div>
       </div>
     </Container>
+    <p class="text-center text-xl text-[#5b21b6] mt-8" href="#"> Meus Repositórios </p>
   </div>
 </template>
   

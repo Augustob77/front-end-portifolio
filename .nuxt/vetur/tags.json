@@ -13,5 +13,8 @@
   },
   "Projects": {
     "description": "Auto imported from components/Projects.vue"
+  },
+  "Services": {
+    "description": "Auto imported from components/Services.vue"
   }
 }
